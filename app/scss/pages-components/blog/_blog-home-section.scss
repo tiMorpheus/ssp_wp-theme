@@ -1,0 +1,59 @@
+
+
+
+.home-section {
+
+  padding: 160px 0 60px;
+
+
+  width: 100%;
+  background-color: #F5F5F5;
+
+
+  .container{
+
+    padding: 0 15px;
+
+
+
+    .section-title{
+
+      color: #000000;
+      font-family: Rajdhani;
+      font-size: 64px;
+      font-weight: bold;
+      line-height: 58px;
+      margin-bottom: 16px;
+      text-transform: uppercase;
+    }
+
+    .section-subtitle{
+      color: #000000;
+      font-family: "IBM Plex Mono";
+      font-size: 20px;
+      line-height: 26px;
+
+    }
+  }
+}
+
+
+
+@media screen and (min-width: 991px){
+
+
+
+  .home-section {
+
+
+    .container{
+
+      max-width: $container-max-width;
+
+      margin: 0 auto;
+      padding: 0;
+    }
+  }
+
+
+}

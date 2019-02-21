@@ -1,0 +1,27 @@
+@import "init/vars";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,700|Rajdhani:700');
+
+@import "common/reset";
+
+
+// Top fixed nav header
+@import "common/header";
+
+
+
+// Home section
+@import "pages-components/home/home-section";
+
+
+
+
+// Product Features section
+@import "pages-components/home/features-section";
+
+
+// Pricing Section
+@import "pages-components/home/pricing-section";
+
+
+// Support Section + Footer
+@import "common/footer";

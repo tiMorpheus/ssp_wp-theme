@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7140063e-7453-49be-9b41-ed29b7af758c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssp/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#1581#1645#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_single.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scss/pages-components/blog/_single.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2205">
+              <caret line="147" selection-start-line="147" selection-end-line="147" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssp/front-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-about-us.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssp/page-about-us.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2715">
+              <caret line="181" selection-start-line="181" selection-end-line="181" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssp/page-product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2175">
+              <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scss/home.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_home-section.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scss/pages-components/home/_home-section.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="132" column="38" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-blog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssp/page-blog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="114" selection-start-line="114" selection-end-line="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssp/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2595">
+              <caret line="173" column="16" selection-start-line="173" selection-start-column="16" selection-end-line="173" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssp/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section-header</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ssp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.bowerrc" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/var/www/sites/supersonicproxies.com/wp-content/themes/pillar/header.php" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/etc/hosts" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/var/www/sites/supersonicproxies.com/.htaccess" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/var/www/sites/supersonicproxies.com/wp-content/themes/ssp/style.css" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/var/www/sites/supersonicproxies.com/wp-content/themes/ssp/header.php" />
+        <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/scss/_vars.scss" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/var/www/sites/supersonicproxies.com/wp-content/themes/ssp/footer.php" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/var/www/sites/supersonicproxies.com/wp-content/themes/ssp/functions.php" />
+        <option value="&lt;7de71ec4-f7e6-45eb-a586-8c0025efb95c&gt;/var/www/sites/supersonicproxies.com/wp-content/themes/ssp/front-page.php" />
+        <option value="$PROJECT_DIR$/app/js/calculator-home.js" />
+        <option value="$PROJECT_DIR$/app/scss/common/_reset.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages/home/_home-section.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages/home/_features-section.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages/home/_pricing-section.scss" />
+        <option value="$PROJECT_DIR$/app/scss/main.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/about-us/_about-home-section.scss" />
+        <option value="$PROJECT_DIR$/app/scss/about-us.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/about-us/_why-choose-us.scss" />
+        <option value="$PROJECT_DIR$/ssp/page-products.php" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/products/_products-home-section.scss" />
+        <option value="$PROJECT_DIR$/app/scss/product.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/blog/_blog.scss" />
+        <option value="$PROJECT_DIR$/app/scss/blog.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/blog/_blog-home-section.scss" />
+        <option value="$PROJECT_DIR$/ssp/footer.php" />
+        <option value="$PROJECT_DIR$/app/scss/common/_header.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/home/_features-section.scss" />
+        <option value="$PROJECT_DIR$/app/scss/common/_footer.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/about-us/_about-supersonic.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/products/_products-block.scss" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/home/_pricing-section.scss" />
+        <option value="$PROJECT_DIR$/ssp/single.php" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/blog/_single.scss" />
+        <option value="$PROJECT_DIR$/app/js/animated-headline.js" />
+        <option value="$PROJECT_DIR$/ssp/functions.php" />
+        <option value="$PROJECT_DIR$/app/scss/pages-components/home/_home-section.scss" />
+        <option value="$PROJECT_DIR$/ssp/page-about-us.php" />
+        <option value="$PROJECT_DIR$/ssp/page-product.php" />
+        <option value="$PROJECT_DIR$/ssp/page-blog.php" />
+        <option value="$PROJECT_DIR$/ssp/front-page.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/libs/components-font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/owl.carousel/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/responsive-nav/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/ssp/libs/components-font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/ssp/libs/owl.carousel/package.json" />
+      <path value="$PROJECT_DIR$/ssp/libs/responsive-nav/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1617" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="supersonic-wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supersonic-wp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supersonic-wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supersonic-wp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supersonic-wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supersonic-wp" type="462c0819:PsiDirectoryNode" />
+              <item name="ssp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supersonic-wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supersonic-wp" type="462c0819:PsiDirectoryNode" />
+              <item name="ssp" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supersonic-wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supersonic-wp" type="462c0819:PsiDirectoryNode" />
+              <item name="ssp" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/tymur/supersonic-wp/app/scss/main.scss" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/vue-learning" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ssp/css" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/js" />
+      <recent name="$PROJECT_DIR$/ssp/js" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ssp/img/main" />
+      <recent name="$PROJECT_DIR$/ssp/css" />
+      <recent name="$PROJECT_DIR$/ssp/js" />
+      <recent name="$PROJECT_DIR$/ssp/img" />
+      <recent name="$PROJECT_DIR$/app/scss/pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7140063e-7453-49be-9b41-ed29b7af758c" name="Default" comment="" />
+      <created>1548188096171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548188096171</updated>
+      <workItem from="1548188097558" duration="2975000" />
+      <workItem from="1548227762182" duration="13009000" />
+      <workItem from="1548330570461" duration="13905000" />
+      <workItem from="1548403357171" duration="14348000" />
+      <workItem from="1549013740544" duration="2380000" />
+      <workItem from="1549274242596" duration="615000" />
+      <workItem from="1549287653569" duration="599000" />
+      <workItem from="1549304042768" duration="599000" />
+      <workItem from="1549360667342" duration="1239000" />
+      <workItem from="1549404180051" duration="4581000" />
+      <workItem from="1549444251826" duration="12666000" />
+      <workItem from="1549464695536" duration="6428000" />
+      <workItem from="1549536376468" duration="11321000" />
+      <workItem from="1549568024815" duration="8175000" />
+      <workItem from="1549623031258" duration="597000" />
+      <workItem from="1549647021197" duration="4627000" />
+      <workItem from="1549740719937" duration="599000" />
+      <workItem from="1549876192965" duration="8994000" />
+      <workItem from="1549909555000" duration="599000" />
+      <workItem from="1549975970867" duration="1434000" />
+      <workItem from="1550051247932" duration="599000" />
+      <workItem from="1550074637121" duration="598000" />
+      <workItem from="1550154454257" duration="597000" />
+      <workItem from="1550175062756" duration="596000" />
+      <workItem from="1550486154126" duration="420000" />
+      <workItem from="1550573551800" duration="598000" />
+      <workItem from="1550608254907" duration="598000" />
+      <workItem from="1550662156291" duration="888000" />
+      <workItem from="1550672721138" duration="599000" />
+      <workItem from="1550757489280" duration="226000" />
+    </task>
+    <task id="LOCAL-00043" summary="single blog page">
+      <created>1549539629401</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1549539629401</updated>
+    </task>
+    <task id="LOCAL-00044" summary="styles fixes single blog">
+      <created>1549539761564</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1549539761564</updated>
+    </task>
+    <task id="LOCAL-00045" summary="styles fixes single blog">
+      <created>1549539906085</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1549539906085</updated>
+    </task>
+    <task id="LOCAL-00046" summary="styles fixes single blog">
+      <created>1549540899003</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1549540899003</updated>
+    </task>
+    <task id="LOCAL-00047" summary="styles fixes single blog">
+      <created>1549541298046</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1549541298046</updated>
+    </task>
+    <task id="LOCAL-00048" summary="added a active state on blog nav link -single page blog">
+      <created>1549541415566</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1549541415566</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added a active state on blog nav link -single page blog">
+      <created>1549541463249</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1549541463250</updated>
+    </task>
+    <task id="LOCAL-00050" summary="added a active state on blog nav link -single page blog">
+      <created>1549541816113</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1549541816114</updated>
+    </task>
+    <task id="LOCAL-00051" summary="added a active state on blog nav link -single page blog">
+      <created>1549541961738</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1549541961738</updated>
+    </task>
+    <task id="LOCAL-00052" summary="hovers">
+      <created>1549542075919</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1549542075919</updated>
+    </task>
+    <task id="LOCAL-00053" summary="hovers">
+      <created>1549542641892</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1549542641892</updated>
+    </task>
+    <task id="LOCAL-00054" summary="hovers">
+      <created>1549542951470</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1549542951470</updated>
+    </task>
+    <task id="LOCAL-00055" summary="hovers">
+      <created>1549543063048</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1549543063048</updated>
+    </task>
+    <task id="LOCAL-00056" summary="hovers">
+      <created>1549550071527</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1549550071527</updated>
+    </task>
+    <task id="LOCAL-00057" summary="hovers">
+      <created>1549550489946</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1549550489947</updated>
+    </task>
+    <task id="LOCAL-00058" summary="hovers">
+      <created>1549550940463</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1549550940463</updated>
+    </task>
+    <task id="LOCAL-00059" summary="hovers">
+      <created>1549551261904</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1549551261905</updated>
+    </task>
+    <task id="LOCAL-00060" summary="hovers">
+      <created>1549551447305</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1549551447305</updated>
+    </task>
+    <task id="LOCAL-00061" summary="hovers">
+      <created>1549551555153</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1549551555153</updated>
+    </task>
+    <task id="LOCAL-00062" summary="7.02 changes">
+      <created>1549551630382</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1549551630383</updated>
+    </task>
+    <task id="LOCAL-00063" summary="7.02 changes">
+      <created>1549570681888</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1549570681890</updated>
+    </task>
+    <task id="LOCAL-00064" summary="proxy banner blog styles">
+      <created>1549571112450</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1549571112450</updated>
+    </task>
+    <task id="LOCAL-00065" summary="recent post start">
+      <created>1549571371022</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1549571371022</updated>
+    </task>
+    <task id="LOCAL-00066" summary="recent post start">
+      <created>1549571900145</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1549571900145</updated>
+    </task>
+    <task id="LOCAL-00067" summary="recent post start">
+      <created>1549573290665</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1549573290665</updated>
+    </task>
+    <task id="LOCAL-00068" summary="recent post start">
+      <created>1549573383420</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1549573383420</updated>
+    </task>
+    <task id="LOCAL-00069" summary="recent post start">
+      <created>1549574784556</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1549574784556</updated>
+    </task>
+    <task id="LOCAL-00070" summary="recent post start">
+      <created>1549574934042</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1549574934042</updated>
+    </task>
+    <task id="LOCAL-00071" summary="recent post start">
+      <created>1549576291052</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1549576291052</updated>
+    </task>
+    <task id="LOCAL-00072" summary="recent post start">
+      <created>1549576416100</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1549576416101</updated>
+    </task>
+    <task id="LOCAL-00073" summary="recent post start">
+      <created>1549578141140</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1549578141140</updated>
+    </task>
+    <task id="LOCAL-00074" summary="recent post start">
+      <created>1549578489170</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1549578489170</updated>
+    </task>
+    <task id="LOCAL-00075" summary="recent post start">
+      <created>1549578730009</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1549578730009</updated>
+    </task>
+    <task id="LOCAL-00076" summary="recent post start">
+      <created>1549647993711</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1549647993711</updated>
+    </task>
+    <task id="LOCAL-00077" summary="recent post start">
+      <created>1549648102394</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1549648102394</updated>
+    </task>
+    <task id="LOCAL-00078" summary="recent post start">
+      <created>1549648209644</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1549648209644</updated>
+    </task>
+    <task id="LOCAL-00079" summary="recent post start">
+      <created>1549648298507</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1549648298507</updated>
+    </task>
+    <task id="LOCAL-00080" summary="recent post start">
+      <created>1549648402242</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1549648402242</updated>
+    </task>
+    <task id="LOCAL-00081" summary="recent post start">
+      <created>1549708021562</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1549708021562</updated>
+    </task>
+    <task id="LOCAL-00082" summary="recent post start">
+      <created>1549709152380</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1549709152380</updated>
+    </task>
+    <task id="LOCAL-00083" summary="recent post start">
+      <created>1549880978140</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1549880978149</updated>
+    </task>
+    <task id="LOCAL-00084" summary="recent post start">
+      <created>1549881735645</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1549881735646</updated>
+    </task>
+    <task id="LOCAL-00085" summary="recent post start">
+      <created>1549881964698</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1549881964698</updated>
+    </task>
+    <task id="LOCAL-00086" summary="recent post start">
+      <created>1549889240937</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1549889240937</updated>
+    </task>
+    <task id="LOCAL-00087" summary="recent post start">
+      <created>1549889330757</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1549889330757</updated>
+    </task>
+    <task id="LOCAL-00088" summary="recent post start">
+      <created>1549889504417</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1549889504417</updated>
+    </task>
+    <task id="LOCAL-00089" summary="recent post start">
+      <created>1549889939443</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1549889939443</updated>
+    </task>
+    <task id="LOCAL-00090" summary="recent post start">
+      <created>1549890039554</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1549890039554</updated>
+    </task>
+    <task id="LOCAL-00091" summary="recent post start">
+      <created>1549890854448</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1549890854448</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115443000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.500956" side_tool="true" weight="0.7104677" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.11358575" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49904397" weight="0.7104677" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.43594646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29700446" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32950923" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="13" weight="0.32962137" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="11" weight="0.32962137" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="css path fixed" />
+    <MESSAGE value="added a active menu item" />
+    <MESSAGE value="fix:added a active menu item" />
+    <MESSAGE value="home section styled" />
+    <MESSAGE value="supersonic description" />
+    <MESSAGE value="why us section" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="nav" />
+    <MESSAGE value="nav 2" />
+    <MESSAGE value="products page" />
+    <MESSAGE value="fixed nav margins" />
+    <MESSAGE value="added blog page" />
+    <MESSAGE value="the time" />
+    <MESSAGE value="layout css" />
+    <MESSAGE value="single blog" />
+    <MESSAGE value="nav pricing link color fixed" />
+    <MESSAGE value="footer edited" />
+    <MESSAGE value="home page responsive fixes" />
+    <MESSAGE value="single blog page" />
+    <MESSAGE value="styles fixes single blog" />
+    <MESSAGE value="added a active state on blog nav link -single page blog" />
+    <MESSAGE value="hovers" />
+    <MESSAGE value="7.02 changes" />
+    <MESSAGE value="proxy banner blog styles" />
+    <MESSAGE value="recent post start" />
+    <option name="LAST_COMMIT_MESSAGE" value="recent post start" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.ks" />
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/scripts.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/js/scripts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/calculator-home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3922">
+          <caret line="153" column="30" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/common/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/css/main.min.css" />
+    <entry file="file://$PROJECT_DIR$/app/scss/init/_vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/about-us/_why-choose-us.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/about-us.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/about-us/_about-home-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/css/product.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3838" selection-start-column="3838" selection-end-column="3838" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/product.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/products/_products-home-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/blog/_blog-home-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/common/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/home/_features-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" column="38" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/common/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/about-us/_about-supersonic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/products/_products-block.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/css/blog.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/home/_pricing-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2955">
+          <caret line="197" column="22" selection-start-line="197" selection-start-column="22" selection-end-line="197" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/features/img-4.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/blog/_blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/blog/_single.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/logo@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/animated-headline.js" />
+    <entry file="file://$PROJECT_DIR$/ssp/js/animated-headline.js" />
+    <entry file="file://$PROJECT_DIR$/ssp/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="173" column="16" selection-start-line="173" selection-start-column="16" selection-end-line="173" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/css/home.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/pages-components/home/_home-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="38" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/page-about-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/page-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#1581#1645#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssp/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

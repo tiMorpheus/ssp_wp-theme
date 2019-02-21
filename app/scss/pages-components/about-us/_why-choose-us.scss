@@ -1,0 +1,128 @@
+
+
+.why-choose-us-section{
+
+  padding: 2em 0;
+
+  .container{
+    padding: 0 15px;
+
+    .section-header{
+      .section-title{
+
+        color: #000000;
+        font-family: Rajdhani;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-bottom: 60px;
+        text-transform: uppercase;
+
+
+      }
+    }
+
+
+    .wrap{
+      display: flex;
+
+      .item-quarter{
+        width: 100%;
+        margin-bottom: 1em;
+
+
+
+
+
+        .choose-img{
+
+          margin-bottom: 32px;
+
+          width: 40px;
+          height: 40px;
+
+        }
+
+        .direction-img{
+          background: url('../img/why-us/direction.svg') no-repeat;
+          background-size: contain;
+        }
+
+        .wallet-img{
+          background: url('../img/why-us/wallet.svg') no-repeat;
+          background-size: contain;
+        }
+
+        .help-img{
+          background: url('../img/why-us/help.svg') no-repeat;
+          background-size: contain;
+        }
+
+        .stack-img{
+          background: url('../img/why-us/stack.svg') no-repeat;
+          background-size: contain;
+        }
+
+
+
+
+
+        .choose-title {
+          color: #000000;
+          font-family: "IBM Plex Mono";
+          font-size: 16px;
+          font-weight: bold;
+          line-height: 22px;
+          margin-bottom: 24px;
+        }
+
+
+        .choose-black-line{
+            height: 2px;
+            width: 24px;
+            background-color: #000000;
+        }
+      }
+
+
+
+
+
+
+    }
+
+
+  }
+}
+
+
+@media screen and (min-width: 991px){
+
+  .why-choose-us-section{
+
+    padding: 70px 0 90px;
+
+
+    .container{
+      padding: 0 ;
+      max-width: $container-max-width;
+
+      margin: 0 auto;
+
+      .wrap{
+
+        .item-quarter{
+          width: 25%;
+          margin-bottom: 0;
+
+        }
+      }
+
+
+
+    }
+  }
+
+
+
+}

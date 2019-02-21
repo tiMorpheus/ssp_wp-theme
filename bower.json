@@ -1,0 +1,24 @@
+{
+  "name": "supersonic-wp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "timorpheus <tymurtolochko@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^5.4.2",
+    "responsive-nav": "^1.0.39",
+    "owl.carousel": "^2.3.4",
+    "jquery": "^3.3.1"
+  }
+}

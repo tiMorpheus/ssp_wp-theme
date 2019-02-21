@@ -1,0 +1,164 @@
+
+.link-styled-bg{
+   background-color: #4DFFE4;;
+  color: black;
+
+
+  transition: all 0.6s ease;
+
+
+  &:hover,
+  &:active,
+  &:focus{
+    background: black;
+    color: white;
+  }
+
+
+
+}
+
+
+.about-supersonic{
+  padding-top: 70px;
+
+
+
+
+  .container{
+
+    padding: 0 15px;
+
+
+    .section-header{
+      .section-title{
+
+        color: #000000;
+        font-family: Rajdhani;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-bottom: 16px;
+        text-transform: uppercase;
+
+      }
+    }
+
+
+    .wrap{
+      display: flex;
+
+      flex-wrap: wrap;
+      justify-content: space-between;
+
+
+      .item-half{
+        width: 100%;
+      }
+
+
+      .supersonic-description-text{
+        color: #000000;
+        font-family: "IBM Plex Mono";
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 50px;
+
+      }
+
+      .about-us-card{
+
+        background: black;
+
+        padding: 30px;
+        display: flex;
+
+        .card-img{
+
+          width: 168px;
+          height: 56px;
+
+        }
+
+        .vision-img{
+          background: url("../img/about-us/vision.svg") no-repeat;
+          background-size: contain;
+          width: 125px;
+          margin-right: 32px;
+        }
+
+        .target-img{
+          background: url("../img/about-us/target.svg") no-repeat;
+          background-size: contain;
+
+        }
+
+        .card-header{
+
+
+
+
+          .card-title{
+            color: #FFFFFF;
+            font-family: Rajdhani;
+            font-size: 24px;
+            font-weight: bold;
+            line-height: 30px;
+          }
+
+          .card-description{
+            color: #FFFFFF;
+            font-family: "IBM Plex Mono";
+            font-size: 14px;
+            line-height: 20px;
+          }
+
+
+
+
+        }
+      }
+
+    }
+  }
+
+}
+
+
+
+
+
+
+@media screen  and (min-width: 991px){
+
+
+
+
+  .about-supersonic{
+
+
+
+
+    .container{
+
+      padding: 0 ;
+
+      max-width: $container-max-width;
+
+      margin: 0 auto;
+
+      .wrap{
+
+
+        .item-half{
+          width: 48%;
+        }
+      }
+
+    }
+
+  }
+
+
+
+}

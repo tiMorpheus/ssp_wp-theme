@@ -1,0 +1,138 @@
+
+
+
+.products-section{
+  padding: 90px 0 10px;
+
+  .container{
+    padding: 0 15px;
+
+
+
+    .wrap{
+      display: flex;
+
+      justify-content: space-between;
+      flex-wrap: wrap;
+
+      .item-50{
+        width: 100%;
+
+        .product-img{
+          margin-bottom: 32px;
+
+          height: 75px;
+
+
+        }
+
+        .shared-img{
+          width: 88px;
+          background: url("../img/product/shared.svg") no-repeat;
+          background-size: contain;
+        }
+
+        .rotating-img{
+          width: 69px;
+          background: url("../img/product/rotating.svg") no-repeat;
+          background-size: contain;
+        }
+
+
+        .private-img{
+          width: 66px;
+          background: url("../img/product/private.svg") no-repeat;
+          background-size: contain;
+        }
+
+        .shoe-img{
+          width: 69px;
+          background: url("../img/product/shoe.svg") no-repeat;
+          background-size: contain;
+        }
+
+
+        .product-title{
+
+          color: #000000;
+          font-family: Rajdhani;
+          font-size: 24px;
+          font-weight: bold;
+          line-height: 30px;
+          margin-bottom: 16px;
+        }
+
+        .product-description{
+          color: #000000;
+          font-family: "IBM Plex Mono";
+          font-size: 14px;
+          line-height: 22px;
+          margin-bottom: 32px;
+          height: 100px;
+        }
+
+        .product-link{
+          height: 48px;
+          width: 136px;
+          background-color: #000000;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+
+          color: #FFFFFF;
+          font-family: Rajdhani;
+          font-size: 18px;
+          font-weight: bold;
+          line-height: 23px;
+
+
+          transition: all 0.6s ease;
+
+          &:hover{
+            color: #4DFFE4;
+
+          }
+
+          &:active, &:focus{
+            color: #4DFFE4;
+          }
+
+
+        }
+
+
+      }
+    }
+  }
+}
+
+
+
+@media screen and (min-width: 991px){
+
+
+
+  .products-section{
+
+    .container{
+      padding: 0 ;
+
+      max-width: $container-max-width;
+      margin: 0 auto;
+
+
+      .wrap{
+
+        .item-50{
+          width: 48%;
+
+          margin-bottom: 80px;
+
+        }
+      }
+    }
+  }
+
+}

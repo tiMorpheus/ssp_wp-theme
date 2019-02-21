@@ -1,0 +1,183 @@
+// SUPPORT SECTION
+
+.support-section{
+  background: #F3F3F3 url("../img/help@2x.png") no-repeat;
+  padding: 70px 0;
+
+  background-size: contain;
+
+  background-position: 73% ;
+
+
+  .container{
+    margin: 0 15px;
+
+    display: flex;
+    justify-content: space-between;
+
+    .section-header{
+
+
+      .section-title{
+
+        text-transform: uppercase;
+        color: #000000;
+        font-family: Rajdhani;
+        font-size: 48px;
+        font-weight: bold;
+        line-height: 44px;
+
+      }
+
+      .section-description{
+        color: #000000;
+        font-family: "IBM Plex Mono";
+        font-size: 14px;
+        line-height: 22px;
+      }
+    }
+
+
+    .connect-with-us-btn{
+      height: 63px;
+      width: 213px;
+      background-color: #000000;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-transform: uppercase;
+      color: #FFFFFF;
+      font-family: Rajdhani;
+      font-size: 18px;
+      font-weight: bold;
+      line-height: 23px;
+      text-align: center;
+
+      position: relative;
+      top: 35px;
+
+
+      transition: all 0.6s ease;
+
+
+      &:hover{
+        color: #4DFFE4;
+
+      }
+
+      &:active, &:focus{
+        color: #4DFFE4;
+      }
+    }
+  }
+
+
+}
+
+@media screen and (min-width: 991px) {
+
+  .support-section{
+
+
+    .container{
+      max-width: $container-max-width;
+      margin: 0 auto;
+    }
+  }
+}
+
+
+
+
+
+// FOOTER STYLES
+
+
+.footer{
+
+
+  .container{
+    margin: 0 15px;
+
+    padding: 80px 0;
+
+    .footer-header{
+      display: flex;
+      justify-content: space-between;
+
+
+      .footer-title{
+        text-transform: uppercase;
+        color: #000000;
+        font-family: Rajdhani;
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 26px;
+      }
+
+      .footer-socials{
+        display: flex;
+
+
+        li{
+          height: 40px;
+          width: 40px;
+          background-color: #000000;
+          margin-left: 20px;
+
+          display: flex;
+          align-items: center;
+          justify-content: center;
+
+          a{
+
+            color: white;
+            font-size: 18px;
+
+
+            transition: all 0.6s ease;
+
+
+            &:hover{
+              color: #4DFFE4;
+
+            }
+
+            &:active, &:focus{
+              color: #4DFFE4;
+            }
+
+
+
+          }
+        }
+
+      }
+    }
+
+    .footer-text{
+
+      max-width: 537px;
+      color: #A5A5A5;
+      font-family: "IBM Plex Mono";
+      font-size: 14px;
+      line-height: 20px;
+    }
+
+  }
+}
+
+@media screen and (min-width: 991px){
+
+  .footer{
+
+
+    .container{
+      max-width: $container-max-width;
+      margin: 0 auto;
+
+    }
+  }
+
+}

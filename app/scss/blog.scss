@@ -1,0 +1,27 @@
+
+
+
+// Blog page general
+
+@import "init/vars";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,700|Rajdhani:700');
+
+@import "common/reset";
+
+// Top fixed nav header
+@import "common/header";
+
+
+// Home section
+@import "pages-components/blog/blog-home-section";
+
+// Blog section
+@import "pages-components/blog/blog";
+
+
+//Single Blog
+@import "pages-components/blog/single";
+
+
+// Support Section + Footer
+@import "common/footer";
